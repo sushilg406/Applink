@@ -1,0 +1,14 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "web",
+    "site": "https://bharatkisan.in"
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.universaltestapp",
+    "sha256_cert_fingerprints": ["82:E6:8D:06:BA:4A:D8:FB:A4:CB:F4:E4:3F:4F:4E:33:07:29:86:99:1F:10:9C:E2:AA:D2:F1:FD:10:27:00:FB"]
+  }
+}]
